@@ -1,0 +1,12 @@
+{
+    "vermelho": {
+        "bola_amarela": "Faça o L imediatamente",
+        "bola_verde": "Faça o B imediatamente",
+        "bola_azul": "Faça o A imediatamente"
+    },
+    "preto": {
+        "bola_amarela": "Aparentemente você esta analizando o sangue de um não humano",
+        "bola_verde": "Aparentemente você esta analizando o sangue de um não humano",
+        "bola_azul": "Aparentemente você esta analizando o sangue de um não humano"
+    }
+}
