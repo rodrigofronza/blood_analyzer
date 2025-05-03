@@ -19,3 +19,10 @@ class JsonLoader:
         with open(file_path, "r", encoding="utf-8") as file:
             data = json.load(file)
         return data
+
+    @staticmethod
+    def print_my_love() -> None:
+        """
+        Print my love for Jully.
+        """
+        print("Eu amo o Jully.")
