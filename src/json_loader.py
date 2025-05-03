@@ -1,8 +1,10 @@
 """A module to load JSON data from a file."""
 
+import dataclasses
 import json
 
 
+@dataclasses.dataclass
 class JsonLoader:
     """
     A class to load JSON data from a file.
