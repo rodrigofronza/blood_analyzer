@@ -9,7 +9,7 @@ def main():
     """
     Main
     """
-    print("Welcome to the Blood Analyzer script!")
+    print("Welcome to the Blood Analyzer script!!!")
     blood_data = JsonLoader.load("blood_analyzer/src/data/blood_data.json")
     print(f"Loaded blood data: {blood_data}")
 
